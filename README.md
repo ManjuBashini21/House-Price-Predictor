@@ -3,8 +3,6 @@
 This project is a **House Price Predictor Web App** built with **Flask**, **Pandas**, and **Scikit-Learn**.  
 It predicts the price of a house based on user inputs such as **location, size (sqft), number of bedrooms, and bathrooms**.  
 
----
-
 ## Project Overview  
 
 - Dataset sourced from **Kaggle** (raw housing data).  
@@ -13,7 +11,6 @@ It predicts the price of a house based on user inputs such as **location, size (
 - Used **Ridge Regression model** for training and saved it as a pickle file.  
 - Built a **Flask web application** with a simple UI to take inputs and display predicted prices.  
 
----
 
 ## Tech Stack  
 
@@ -22,7 +19,6 @@ It predicts the price of a house based on user inputs such as **location, size (
 - **Bootstrap 5**   
 - **Pickle**   
 
----
 
 ## Install dependencies
 
